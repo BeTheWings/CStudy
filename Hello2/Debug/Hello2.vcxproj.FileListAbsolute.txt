@@ -1,0 +1,2 @@
+C:\Users\JeesooPark\source\repos\Hello2\Debug\Hello2.exe
+C:\Users\JeesooPark\source\repos\Hello2\Debug\Hello2.pdb
